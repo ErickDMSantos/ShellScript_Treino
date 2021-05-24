@@ -1,4 +1,4 @@
-# Treino of Script
+# Treino de Script
 <p>Estou aprendendo shell script</p>
 
 <p>Bom, eu anotei muito do meu aprendizado ai, espero que seja util
